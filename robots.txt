@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-3opui4.rupiahtoto88hkd.site/sitemap.xml
